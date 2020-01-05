@@ -6,3 +6,5 @@ Using Time Series models: SARIMA and FB Prophet to forecast Bitcoin prices:
 Using a Recurrent Neural Network: LSTM (Long Short-Term Memory) Network:
 
 - [Deep Learning Article on Medium](https://medium.com/@marcosan93/predicting-bitcoin-prices-with-deep-learning-438bc3cf9a6f?source=friends_link&sk=44f05d6e5cc82590bf6f2bbe042853eb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FlyingLooper/BTC-Forecaster/master)
